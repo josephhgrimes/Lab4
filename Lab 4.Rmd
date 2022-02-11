@@ -1,0 +1,14 @@
+---
+title: "Lab 4"
+author: "Joseph Grimes"
+date: "`r Sys.Date()`"
+output: rmdformats::readthedown
+---
+
+## Task 1
+```{r}
+getwd()
+dird = "C:/Users/grime/OneDrive/Desktop/Applied Statistical Methods/Labs/Lab 3/"
+```
+
+## Task 2
